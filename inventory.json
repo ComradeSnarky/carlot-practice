@@ -1,0 +1,58 @@
+{
+    "cars": [
+        {
+        "make": "Nissan",
+        "model": "Rogue",
+        "year": "2006",
+        "price": "8999",
+        "color": "FireBrick",
+        "purchased": false,
+        "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+        "make": "Toyota",
+        "model": "Supra",
+        "year": "1986",
+        "price": "4999",
+        "color": "Tomato",
+        "purchased": false,
+        "description": "This is a rebuilt 1986 Toyota Supra with 170000 miles on it. Leather seats, power everything. Turbo mode"
+    },
+    {
+        "make": "Fiat",
+        "model": "Pop 500",
+        "year": "2013",
+        "price": "5999",
+        "color": "Blue",
+        "purchased": false,
+        "description": "This is an immaculate 2013 Fiat Pop 500 with only 13000 miles on it. Leather seats, power everything."
+    },
+    {
+        "make": "Fiat",
+        "model": "Pop 500",
+        "year": "2013",
+        "price": "5999",
+        "color": "Blue",
+        "purchased": false,
+        "description": "This is an immaculate 2013 Fiat Pop 500 with only 13000 miles on it. Leather seats, power everything."
+    },
+    {
+        "make": "Fiat",
+        "model": "Pop 500",
+        "year": "2013",
+        "price": "5999",
+        "color": "Blue",
+        "purchased": false,
+        "description": "This is an immaculate 2013 Fiat Pop 500 with only 13000 miles on it. Leather seats, power everything."
+    },
+    {
+        "make": "Fiat",
+        "model": "Pop 500",
+        "year": "2013",
+        "price": "5999",
+        "color": "Blue",
+        "purchased": false,
+        "description": "This is an immaculate 2013 Fiat Pop 500 with only 13000 miles on it. Leather seats, power everything."
+    }
+    ]
+}
